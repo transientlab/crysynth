@@ -1,2 +1,4 @@
 # LTSpice RAW files
-*.raw
+spice-sim/*.raw
+spice-sim/*.log
+spice-sim/*.plt

@@ -1,8 +1,10 @@
-# LTSpice RAW files
-spice-sim/*.raw
-spice-sim/*.log
-spice-sim/*.plt
 *.DS_Store
 
+*.o
+*.bin
+*.elf
+*.raw
 
-# KiCAD backups, autosave
+*.log
+
+*.plt

@@ -3,3 +3,6 @@ spice-sim/*.raw
 spice-sim/*.log
 spice-sim/*.plt
 *.DS_Store
+
+
+# KiCAD backups, autosave

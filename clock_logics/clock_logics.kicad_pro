@@ -366,7 +366,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "specctra_dsn": "freerouting.dsn",
+      "specctra_dsn": "clock_logics.dsn",
       "step": "",
       "vrml": ""
     },

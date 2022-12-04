@@ -1,4 +1,9 @@
 *.DS_Store
+*.zip
+
+*.dsn
+*.ses
+*.rules
 
 *.o
 *.bin

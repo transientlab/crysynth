@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "transientlab_footprints")(type "KiCad")(uri "C:/Users/kr315/Desktop/dev/stuff/kicad/library/transientlab_footprints.pretty")(options "")(descr ""))
+)

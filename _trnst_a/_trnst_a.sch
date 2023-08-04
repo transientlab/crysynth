@@ -79,7 +79,6 @@ F 3 "~" H 42450 106250 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-
 L Device:R_POT RV?
 U 1 1 5E10A18F
 P 43450 106250
